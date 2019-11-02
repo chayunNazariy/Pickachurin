@@ -1,0 +1,35 @@
+body {
+	   
+       font-family: 'Lora', serif;
+       font-size: 34px; 
+       background-repeat: repeat-y;
+        background-size: contain; 
+       background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUTExIWFhUXGBcaFxgYGRgaGBcYGBcYFxgYFxsaHSggHRolHRUYIjEhJSktLi4uFx8zODMtNygtLisBCgoKDg0OGxAQGy8mHyYtLS0tLS8tLy0rLS0tLS0tLS0tLS0tLy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAKgBLAMBIgACEQEDEQH/xAAcAAACAwEBAQEAAAAAAAAAAAAEBQIDBgABBwj/xAA+EAABAgQEAwYFAgUDAwUAAAABAhEAAyExBAUSQVFhcRMigZGhsQYywdHwUuEUFSNC8WJyghYzogdDU7LS/8QAGgEAAwEBAQEAAAAAAAAAAAAAAQIDBAAFBv/EAC4RAAICAQQCAQIEBgMAAAAAAAABAgMRBBIhMRNBIhRRMkKRoQVScYHw8RUjYf/aAAwDAQACEQMRAD8A+QoRDDLV6VAxCXIi9MmPUMZrsJPW2/WGuExykiohDgMTpAAU4pD3CT0mhaM0om2vn2Gy8clVIDzBAMWTcMl3T4iKMelQY0);
+
+}
+
+#ab {
+	color: #800000; 
+	font-style: italic;      
+	text-align: justify;       
+	text-indent: 20px; 
+	line-height: 200px;    
+	text-transform: uppercase; 
+	text-decoration: none;
+	 
+	  
+}
+
+
+#GHG {
+	color: #0000CD;
+}
+
+
+#g {
+	list-style-position: inside;
+	list-style-type: kannada;
+	
+	
+
+}	
